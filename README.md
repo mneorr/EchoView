@@ -5,6 +5,6 @@ This is a simple Google Chrome extension, that prettyfies the PHP array in your 
 
 Authors:
 
+Edi Budimilic<br/>
 Marin Usalj
-Edi Budimilic
 
